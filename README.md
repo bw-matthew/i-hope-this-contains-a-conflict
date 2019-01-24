@@ -8,6 +8,8 @@ Wikipedia.
 This repo contains two branches which are in conflict with each other.
 You must bring harmony to the world.
 
+The conflict branch believes that resolution is found through destruction.
+
 Instructions
 ------------
 
